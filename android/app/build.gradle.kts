@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "fr.scpoperations.operations"
+        applicationId = "ma.scpoperations.endrik"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

@@ -1,0 +1,3 @@
+SCP Operations helps daily business teams coordinate resource allocation, asset readiness, maintenance requests, and container tracking from a focused Android workspace.
+
+Create local records, assign owners, follow status changes, and keep the next handover clear without account registration or cloud sync. The app is designed for practical operational follow-up on the device you use each day.

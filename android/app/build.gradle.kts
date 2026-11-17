@@ -30,7 +30,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "fr.scpoperations.operations"
+        applicationId = "kr.scpoperations.retti"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

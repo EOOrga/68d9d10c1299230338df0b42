@@ -459,7 +459,7 @@ class OperationsController extends ChangeNotifier {
       OperationRecord(
         id: 'rec-resource-north',
         kind: RecordKind.resource,
-        title: 'Allocate mobile care team',
+        title: 'SCP Operations',
         owner: 'Sandra Rando',
         asset: 'Team B / vehicle 07',
         location: 'North sector',

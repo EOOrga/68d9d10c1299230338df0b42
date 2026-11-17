@@ -30,7 +30,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "fr.scpoperations.operations"
+        applicationId = "fr.scpoperations.fosfita"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
